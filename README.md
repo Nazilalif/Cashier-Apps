@@ -1,7 +1,9 @@
 # Cashier-Apps
 
-a. Nama Aplikasi : TheCashier
-b. Fungsionalitas : Menambahkan barang/jasa dan melihat total harga dari barang/jasa
+a. Aplikasi Kasir
+
+b. Menambah item dan menghitung jumlah harganya
+
 c. 
 
         private int id;
